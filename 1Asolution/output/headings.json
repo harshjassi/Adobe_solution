@@ -1,0 +1,309 @@
+{
+  "outline": [
+    {
+      "level": "TITLE",
+      "text": "Welcome to the “Connecting the Dots” Challenge",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Rethink Reading. Rediscover Knowledge",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "surfaces insights, and responds to you like a trusted research companion.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "The Journey Ahead",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Why This Matters",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "context. You’re not just building tools — you’re building the future of how we",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "read, learn, and connect. No matter your background — ML hacker, UI builder,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Are you in?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Round 1A: Understand Your Document",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Your Mission",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "H3 — in a clean, hierarchical format.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Why This Matters",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "What You Need to Build",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "You must build a solution that:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "\"title\": \"Understanding AI\",",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "You Will Be Provided",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "3. Sample Dockerfile",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Docker Requirements",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Expected Execution",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Your container should:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Constraints",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Constraint Requirement",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Execution",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Model size  ≤ 200MB (if used)",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "No internet access",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Network",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "allowed",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Runtime",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Scoring Criteria",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Criteria",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Heading Detection Accuracy (Precision +",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Recall)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Performance (Time & Size Compliance)",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Bonus: Multilingual Handling (e.g.,",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Japanese)",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Total",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Submission Checklist",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Pro Tips",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "What Not to Do",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "[[Public Dataset Folder]]",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "(For Sample Input and Output Files, please refer to the appendix)",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Round 1B: Persona-Driven Document Intelligence",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Theme: “Connect What Matters — For the User Who Matters”",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Challenge Brief (For Participants)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Input Specification",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Sample Test Cases",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Test Case 1: Academic Research",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Test Case 2: Business Analysis",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Test Case 3: Educational Content",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Required Output",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The output should contain:",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Deliverables",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Sample input/output for testing",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Scoring Criteria",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Max",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Criteria Points",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Section Relevance",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Sub-Section Relevance",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Appendix:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "https://github.com/jhaaj08/Adobe-India-",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Hackathon25.git",
+      "page": 10
+    }
+  ]
+}
